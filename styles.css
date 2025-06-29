@@ -1,7 +1,7 @@
 /*  your css code here. If applicable */
 
 .grid-container{
-	display: flex;
+	display: grid;
 	flex-wrap: wrap;
 	gap: 10px
 }
